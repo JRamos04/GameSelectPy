@@ -1,0 +1,9 @@
+{
+    "files": [
+        "main.py",
+        "App/Main.qml",
+        "App/GameSelectLogo.png",
+        "App/GeminiQueries.py",
+        "App/DBConnection.py"
+    ]
+}
